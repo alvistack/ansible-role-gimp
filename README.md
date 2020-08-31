@@ -1,7 +1,7 @@
 # Ansible Role for GIMP
 
 [![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-gimp.svg)](https://travis-ci.com/alvistack/ansible-role-gimp)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-gimp.svg)](https://github.com/alvistack/ansible-role-gimp)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-gimp.svg)](https://github.com/alvistack/ansible-role-gimp/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gimp.svg)](https://github.com/alvistack/ansible-role-gimp/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.gimp-blue.svg)](https://galaxy.ansible.com/alvistack/gimp)
 
