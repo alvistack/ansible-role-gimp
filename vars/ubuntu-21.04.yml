@@ -20,7 +20,7 @@ _apt_key:
     state: "present"
 
 _apt_repository:
-  - repo: "deb http://ppa.launchpad.net/ubuntuhandbook1/gimp/ubuntu groovy main"
+  - repo: "deb http://ppa.launchpad.net/ubuntuhandbook1/gimp/ubuntu hirsute main"
     state: "present"
 
 _apt:
