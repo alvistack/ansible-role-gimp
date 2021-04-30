@@ -15,12 +15,14 @@
 # limitations under the License.
 
 _apt_key:
-  - url: "http://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa0062203196ca4482ddb859e4c1cbe14852541cb"
-    id: "A0062203196CA4482DDB859E4C1CBE14852541CB"
+  - url: "http://keyserver.ubuntu.com/pks/lookup?op=get&search=0xE996735927E427A733BB653E374C7797FB006459"
+    id: "E996735927E427A733BB653E374C7797FB006459"
     state: "present"
 
 _apt_repository:
-  - repo: "deb http://ppa.launchpad.net/ubuntuhandbook1/gimp/ubuntu groovy main"
+  - repo: "deb http://ppa.launchpad.net/savoury1/ffmpeg4/ubuntu groovy main"
+    state: "present"
+  - repo: "deb http://ppa.launchpad.net/savoury1/gimp/ubuntu groovy main"
     state: "present"
 
 _apt:
