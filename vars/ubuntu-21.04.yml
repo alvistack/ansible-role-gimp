@@ -14,14 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-_apt_key:
-  - url: "http://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa0062203196ca4482ddb859e4c1cbe14852541cb"
-    id: "A0062203196CA4482DDB859E4C1CBE14852541CB"
-    state: "present"
+_apt_key: []
 
-_apt_repository:
-  - repo: "deb http://ppa.launchpad.net/ubuntuhandbook1/gimp/ubuntu hirsute main"
-    state: "present"
+_apt_repository: []
 
 _apt:
   - { state: "latest", name: "gimp" }
