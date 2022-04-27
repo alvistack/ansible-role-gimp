@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: gimp
-      tags: gimp
+        name: alvistack.gimp
+      tags: alvistack.gimp
