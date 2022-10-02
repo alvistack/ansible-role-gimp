@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: gimp --version
-      ansible.builtin.command: gimp --version
+      ansible.builtin.command:
+        cmd: gimp --version
       register: result
       changed_when: result is not succeeded
