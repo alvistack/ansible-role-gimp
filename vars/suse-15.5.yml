@@ -14,11 +14,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-_apt_key: []
-
-_apt_repository: []
-
-_apt:
+_zypper:
   - { state: "latest", name: "gimp" }
-  - { state: "latest", name: "gimp-gmic" }
-  - { state: "latest", name: "libbabl-0.1-0" }
