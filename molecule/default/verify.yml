@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: gimp --version
+    - name: flatpak info org.gimp.GIMP
       ansible.builtin.command:
-        cmd: gimp --version
+        cmd: flatpak info org.gimp.GIMP
       register: result
       changed_when: result is not succeeded
