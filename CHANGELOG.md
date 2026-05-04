@@ -1,4 +1,4 @@
-# Ansible Role for GIMP
+# Ansible Role for GIMP with Flatpak
 
 ## 13.6.0 - TBC
 

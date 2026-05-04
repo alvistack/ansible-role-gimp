@@ -1,13 +1,13 @@
-# Ansible Role for GIMP
+# Ansible Role for GIMP with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gimp/master)](https://gitlab.com/alvistack/ansible-role-gimp/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-gimp.svg)](https://github.com/alvistack/ansible-role-gimp/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gimp.svg)](https://github.com/alvistack/ansible-role-gimp/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.gimp-blue.svg)](https://galaxy.ansible.com/alvistack/gimp)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_gimp/master)](https://gitlab.com/alvistack/ansible-role-flatpak_gimp/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_gimp.svg)](https://github.com/alvistack/ansible-role-flatpak_gimp/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_gimp.svg)](https://github.com/alvistack/ansible-role-flatpak_gimp/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_gimp-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_gimp)
 
-Ansible Role for GIMP Installation.
+Ansible Role for GIMP with Flatpak.
 
 ## Requirements
 
